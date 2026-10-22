@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">Shows a floating START/STOP panel and a red target ring. While running, TikTapper taps the screen where the ring is.</string>
+</resources>
